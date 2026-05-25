@@ -150,7 +150,7 @@ C-program-/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/mananbansal583-git-dev/C-program-.git
+git clone https://github.com/mananbdev-dev/C-program-.git
 cd C-program-/C\ Practical/
 ```
 
@@ -227,7 +227,7 @@ This project is created for educational purposes as part of college curriculum.
 
 ## 👨‍💻 Author
 
-**mananbansal583-git**  
+**mananbdev**  
 B.E. Computer Science and Engineering  
 1st Year, Semester 2  
 Course: Fundamentals of C Programming (24CSE0107)
